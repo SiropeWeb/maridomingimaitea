@@ -5700,3 +5700,6 @@ body {
 .loader svg:nth-child(2) {
   display: none;
 }
+.w-editor-bem-EditorStartButton{
+  display: none;
+}
